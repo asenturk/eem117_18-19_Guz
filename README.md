@@ -1,3 +1,5 @@
+**Önemli:** Dersin gruplara ayrılması biraz daha vakit alabilirmiş. Bundan dolayı numarası tek olanlar A Şubesi, çift olanlar B şubesi olacak şekilde derslerimize başlayacağız. Gruplar kesinleştikten sonra kendi grubunuzda derslerinize devam edersiniz.
+
 # SDÜ - ISUBU
 ## Teknoloji Fakültesi Elektrik Elektronik Mühendisliği Bölümü
 ### 2018-2019 Güz Dönemi EEM465 **Algoritma ve Programlama** Dersi
