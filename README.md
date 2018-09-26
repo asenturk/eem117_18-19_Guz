@@ -1,6 +1,7 @@
 **Önemli:** Dersin gruplara ayrılması biraz daha vakit alabilirmiş. Bundan dolayı numarası tek olanlar A Şubesi, çift olanlar B şubesi olacak şekilde derslerimize başlayacağız. Gruplar kesinleştikten sonra kendi grubunuzda derslerinize devam edersiniz.
+* A Şubesi 1. Öğretim Çarşamba 09:25 Lab1
+* A Şubesi 2. Öğretim Çarşamba 16:30 1. Kat Lab4 
 
-# SDÜ - ISUBU
 ## Teknoloji Fakültesi Elektrik Elektronik Mühendisliği Bölümü
 ### 2018-2019 Güz Dönemi EEM465 **Algoritma ve Programlama** Dersi
 
