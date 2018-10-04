@@ -1,4 +1,3 @@
-**Önemli:** Dersin gruplara ayrılması biraz daha vakit alabilirmiş. Bundan dolayı numarası tek olanlar A Şubesi, çift olanlar B şubesi olacak şekilde derslerimize başlayacağız. Gruplar kesinleştikten sonra kendi grubunuzda derslerinize devam edersiniz.
 * A Şubesi 1. Öğretim Çarşamba 09:25 Lab1
 * A Şubesi 2. Öğretim Çarşamba 16:30 1. Kat Lab4 
 
