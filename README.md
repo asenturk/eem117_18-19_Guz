@@ -18,9 +18,4 @@
 * Seçtiğiniz programlama diline göre şablon kodlar açılacaktır.
 * Programınızı yazdıktan sonra Execute -> Compile & Run menüsü ile yazdığınız programınızı çalıştırabilirsiniz. F11 ise bu işlemin kısa yolu.
 
-#### Visual Studio programında C ve C++ programını başlatmak
-* File- -> New -> Project
-* Açılan pencerede sol tarafta Vsual C++ Sağ tarafta  Win32 Console Applicaiton
-* Pencerenin alt tarafında proje adı ve klasörü ayarlanabilir. Browse butonu kullanılarak masaüstünde bir klasör oluşturulabilirapp* Yeni pencere açılırsa Console application seçili olmasına dikkat edilmelidir. Finish butonuna tıklanır.
-* Şablon kodlar açıldıktan ve programınızı yazdıktan sonra Ctrl+F5 ile projenizi çalıştırabilirsiniz.
 
