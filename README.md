@@ -1,5 +1,6 @@
-* A Şubesi 1. Öğretim Çarşamba 09:25 Lab1
-* A Şubesi 2. Öğretim Çarşamba 16:30 1. Kat Lab4 
+
+**Duyuru (05.11.2018):** Ödev 1 eklenmiştir. Son gönderim tarihi 10.11.2018
+
 
 ## Teknoloji Fakültesi Elektrik Elektronik Mühendisliği Bölümü
 ### 2018-2019 Güz Dönemi EEM117 **Algoritma ve Programlama** Dersi
