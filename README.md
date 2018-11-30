@@ -1,9 +1,26 @@
+**Duyuru (30.11.2018):** Arasınav notlarınız açıklanmıştır. Sınav kağıtlarınızı 03.12.2018-12.12.2018 (dahil) tarihleri arasında kontrol edebilirsiniz.  
+Sınav kağıdınızı kontrol etmek için geldiğinizde:
+* Dersin adını,
+* 1 veya 2. öğretim olduğunuzu, 
+* Yoklama sıra numaranızı söylemeniz gerekmektedir.   
+
+Yoklama sıra numaranıza notunuzu öğrendiğiniz dokümandan ulaşabilirsiniz:
+https://github.com/asenturk/eem117/tree/master/arasinav
+
+
+---
+
 **Duyuru (10.11.2018):** Arasınav 60 dakika sürecektir. Akış diyagramı, sözde kod ve son dersimizde işlemiş olduğumuz değişkenlerinin değerlerinin nasıl değiştiğinin tablosuna çalışmanızı tavsiye ediyorum.   
+
+---
 
 **Duyuru (07.11.2018):** Sınav soruları hazırlandıktan sonra (eğer uygun olursa) sınavla ilgili genel bilgiler verilecektir. (Kaç soru kaç dakika gibi..)
 
+---
+
 **Duyuru (05.11.2018):** Ödev 1 eklenmiştir. Son gönderim tarihi 10.11.2018
 
+---
 
 ## Teknoloji Fakültesi Elektrik Elektronik Mühendisliği Bölümü
 ### 2018-2019 Güz Dönemi EEM117 **Algoritma ve Programlama** Dersi
