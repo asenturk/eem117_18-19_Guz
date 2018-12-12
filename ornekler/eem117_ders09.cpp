@@ -4,18 +4,17 @@
 
 using namespace std;
 int main(int argc, char** argv) {
-	int i, n, karesi, kupu, kuvvet_4;
+	int i, n, karesi, kupu, us_4;
 
 	cin >> n;
 	cout << setw(10);
-	cout <<setw(5) <<"sayi" << setw(7) <<"karesi" <<setw(7) << "kupu" << setw(10) <<"4. kuvveti" << endl;
 	for (i = 1; i <= n; i++) 
 	{
 		karesi = pow(i, 2);
 		kupu = pow(i, 3);
-		kuvvet_4 = pow(i, 4);
+		us_4 = pow(i, 4);
 
-		cout <<setw(5) << i << " "<< setw(7) <<karesi <<" "<< setw(7) <<kupu <<" "<<setw(10) <<kuvvet_4 << endl;
+		cout <<setw(5) << i << " "<< setw(7) <<karesi <<" "<< setw(7) <<kupu <<" "<<setw(10) <<us_4 << endl;
 	}
 	system("pause");
 	return 1;
@@ -97,7 +96,6 @@ _________________
 using namespace std;
 
 void bas(void){
-	cout << "###############################"<<endl;
 	cout << "#######Program Baslangici######"<<endl;
 	cout << "###############################"<<endl;
 	cout << endl;
@@ -106,7 +104,6 @@ void bit(void){
 	cout << endl;
 	cout << "############################"<<endl;
 	cout << "#######Program Sonu#########"<<endl;
-	cout << "############################"<<endl;
 }
 
 int main(int argc, char** argv) {
@@ -129,15 +126,17 @@ _________________
 
 #include <iostream>
 using namespace std;
+/// int asal_mi(int n) -> bu ifade fonksiyonun prototipi olarak adlandırılır.
+/// parantez içindeki int n fonksiyonun parametre(leri || si) olara adlandırılır.
+/// fonksiyonun başındaki int ifadesi fonksiyonun döndüreceği değerin tipidir.
 
 int asal_mi(int n){
-	int i, asal=1;
+	int i;
 	for(i=2;i<n;i++)
 		if(n%i==0){
-			asal=0;
-			break;
+			return 0;
 		}
-	return asal;
+	return 1;
 }
 
 int main(int argc, char** argv) {
@@ -148,7 +147,6 @@ int main(int argc, char** argv) {
 		cout<< a << " sayisi asaldir.";
 	else
 		cout<< a << " sayisi asal degildir.";
-	
 	
 	system("pause");
 	return 1;
@@ -162,13 +160,12 @@ _________________
 using namespace std;
 
 int asal_mi(int n){
-	int i, asal=1;
+	int i;
 	for(i=2;i<n;i++)
 		if(n%i==0){
-			asal=0;
-			break;
+			return 0;
 		}
-	return asal;
+	return 1;
 }
 
 int main(int argc, char** argv) {
@@ -193,13 +190,12 @@ _________________
 using namespace std;
 
 int asal_mi(int n){
-	int i, asal=1;
+	int i;
 	for(i=2;i<n;i++)
 		if(n%i==0){
-			asal=0;
-			break;
+			return 0;
 		}
-	return asal;
+	return 1;
 }
 
 void asallar(int n){
