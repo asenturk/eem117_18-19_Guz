@@ -1,5 +1,5 @@
 #include <iostream>
-#include <conio.h> // getch ve getchar komutları icin
+#include <conio.h> // getch ve getchar komutlarÄ± icin
 
 using namespace std;
 int main(int argc, char** argv) {
@@ -16,7 +16,7 @@ _________________
 
 
 #include <iostream>
-#include <conio.h> // getch ve getchar komutları icin
+#include <conio.h> // getch ve getchar komutlarÄ± icin
 
 using namespace std;
 int main(int argc, char** argv) {
@@ -35,7 +35,7 @@ _________________
 
 
 #include <iostream>
-#include <conio.h> // getch ve getchar komutları icin
+#include <conio.h> // getch ve getchar komutlarÄ± icin
 
 using namespace std;
 int main(int argc, char** argv) {
@@ -57,7 +57,7 @@ _________________
 
 
 #include <iostream>
-#include <conio.h> // getch ve getchar komutları icin
+#include <conio.h> // getch ve getchar komutlarÄ± icin
 
 using namespace std;
 int main(int argc, char** argv) {
@@ -75,7 +75,7 @@ _________________
 
 
 #include <iostream>
-#include <conio.h> // getch ve getchar komutları icin
+#include <conio.h> // getch ve getchar komutlarÄ± icin
 #include <ctime> //veya #include <time.h>
 
 using namespace std;
@@ -102,7 +102,7 @@ _________________
 
 
 #include <iostream>
-#include <conio.h> // getch ve getchar komutları icin
+#include <conio.h> // getch ve getchar komutlarÄ± icin
 #include <ctime> // time.h
 #include <stdlib.h> //rand(), srand() fonksiyonu icin
 using namespace std;
@@ -130,7 +130,7 @@ _________________
 
 
 #include <iostream>
-#include <conio.h> // getch ve getchar komutları icin
+#include <conio.h> // getch ve getchar komutlarÄ± icin
 #include <ctime> // time.h
 #include <stdlib.h>
 using namespace std;
@@ -329,29 +329,29 @@ _________________
 using namespace std;
 
 int main(){
-   int sicaklik[7];             //7 adet integer tipli elemana sahip sicaklik dizisi tanımlandı
-// int sicaklik[]={18,17,19,21,17,16,19};   //7 adet integer tipli elemana sahip sicaklik dizisini ilk değerlerini atayarak tanımlama
+   int sicaklik[7];             //7 adet integer tipli elemana sahip sicaklik dizisi tanÄ±mlandÄ±
+// int sicaklik[]={18,17,19,21,17,16,19};   //7 adet integer tipli elemana sahip sicaklik dizisini ilk deÄŸerlerini atayarak tanÄ±mlama
 
    int j;
-   for(j=0; j<7; j++)          //7 adet sıcaklık verisi girildi
+   for(j=0; j<7; j++)          //7 adet sÄ±caklÄ±k verisi girildi
 		{
 		cout << j<<". gunun sicakligini giriniz: ";
-		cin >> sicaklik[j];               //dizi elemanlarına sıra ile erişim
+		cin >> sicaklik[j];               //dizi elemanlarÄ±na sÄ±ra ile eriÅŸim
 		}
       
     cout<<"Girdiginiz sicakliklar:\n";
-   	for(j=0; j<7; j++)              //7 adet sıcaklığı listele
+   	for(j=0; j<7; j++)              //7 adet sÄ±caklÄ±ÄŸÄ± listele
     	cout << "Girdiginiz "<<j<<". gun sicakligi:" << sicaklik[j] << endl;
 
     int toplamsicaklik=0;
-   	for(j=0; j<7; j++)              //7 adet sıcaklığı topla
+   	for(j=0; j<7; j++)              //7 adet sÄ±caklÄ±ÄŸÄ± topla
     	toplamsicaklik+=sicaklik[j];
       
 	cout << "Girdiginiz "<<j<<" gunluk sicakligin toplami:" << toplamsicaklik << endl;
 	cout << "Girdiginiz "<<j<<" gunluk sicakligin ortalamasi:" << toplamsicaklik/j << endl;
 	
 	sicaklik[3]=50; 
-	int aratoplam=sicaklik[0]+sicaklik[3]+sicaklik[5];//istenilen dizi elemanlarına erişim
+	int aratoplam=sicaklik[0]+sicaklik[3]+sicaklik[5];//istenilen dizi elemanlarÄ±na eriÅŸim
 	cout << "0., 3. ve 5. gunlerin sicaklikleri toplami:"<< aratoplam<< endl;            
 
       
@@ -364,14 +364,14 @@ ______________
    
    
 #include <iostream>
-#include <conio.h> // getch ve getchar komutları icin
+#include <conio.h> // getch ve getchar komutlarÄ± icin
 #include <cstring> //string.h // c dilinin string kutuphanesi
 #include <string> //c++ dilinin string kutuphanesi
 using namespace std;
 int main(int argc, char** argv) {
 	
 	// #define MAX 80
-	const int MAX = 80; //MAX'ın degeri sonra degistirilemez.
+	const int MAX = 80; //MAX'Ä±n degeri sonra degistirilemez.
 	
 	// c tipi string tanimlamasi
 	char str1[] = "BILGInin beste dordu ILGIdir.";
@@ -400,7 +400,7 @@ int main(int argc, char** argv) {
 										<< cumle.find_first_not_of("BILGnaeiou") <<endl;
 										
 	//string nesnesinin replace(): degistirmek, insert(): araya eklemek, size(): uzunluk, 
-	// append(): sona eklemek, find(): bulmak, substr(): alt string, erase(): silmek gibi fonksiyonları vardır.
+	// append(): sona eklemek, find(): bulmak, substr(): alt string, erase(): silmek gibi fonksiyonlarÄ± vardÄ±r.
 	
 	string s1("Ey Ogul! Agac yas iken egilir.");
 	string s2("genc");
@@ -419,7 +419,7 @@ int main(int argc, char** argv) {
 	s1.insert(0,  s3);
 	cout << "ekleme islemi sonucu: " << s1<<endl;
 	
-	// ifadenin sonundaki noktayı silin ! yapın.
+	// ifadenin sonundaki noktayÄ± silin ! yapÄ±n.
 	s1.erase(s1.size()-1,1);
 	cout << "silme islemi sonucu: " << s1<<endl;
 	
@@ -436,6 +436,28 @@ int main(int argc, char** argv) {
 		x=s1.find(" ");
 	}
 	cout << s1 << endl;
+	
+	// yukaridaki kodun duzenlenmesi:
+	// kaynak: http://www.cplusplus.com/reference/string/string/find/
+	// str.find() fonksiyonu kullanÄ±ldÄ±ÄŸÄ±nda ilk bulunan stringin konumunu verir.
+	// EÄŸer bulamazsa  string::npos deÄŸerini dÃ¶ndÃ¼rÃ¼r.
+	// DolayÄ±sÄ±yla yukarÄ±daki ifade her ne kadar istenildiÄŸi ÅŸekilde Ã§alÄ±ÅŸÄ±yorsa da
+	// ÅŸu ÅŸekilde dÃ¼zenlenebilir:
+	// int x=s1.find(" ");
+	// while(x != string::npos){
+	//	s1.replace(x,1,"*");
+	//	x=s1.find(" ", x+1); //daha onceki bulunan yerden itibaren tekrar ara.
+	// }
+	// bu durum aÅŸaÄŸÄ±da farklÄ± deÄŸiÅŸkenler kullanÄ±larak Ã¶rneklendirilmiÅŸtir.
+	
+	string s2 = "aaa b b cc d";
+	int y=s2.find(" ");
+	while(y != string::npos){
+		s2.replace(y,1,"*");
+		y=s2.find(" ", y+1); //daha onceki bulunan yerden (y. karakter) itibaren tekrar ara.
+	}
+	cout << s2 << endl;
+	
 	
 	
 	string ad, soyad;
@@ -458,7 +480,7 @@ _________________
 
 
 #include <iostream>
-#include <conio.h> // getch ve getchar komutları icin
+#include <conio.h> // getch ve getchar komutlarÄ± icin
 #include <cstring> //string.h // c dilinin string kutuphanesi
 #include <string> //c++ dilinin string kutuphanesi
 using namespace std;
@@ -484,7 +506,7 @@ _________________
 
 
 #include <iostream>
-#include <conio.h> // getch ve getchar komutları icin
+#include <conio.h> // getch ve getchar komutlarÄ± icin
 #include <cstring> //string.h // c dilinin string kutuphanesi
 #include <string> //c++ dilinin string kutuphanesi
 using namespace std;
