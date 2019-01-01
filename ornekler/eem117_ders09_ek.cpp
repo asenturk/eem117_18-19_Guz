@@ -1,4 +1,4 @@
-//parametresiz fonksiyon örneği
+//parametresiz fonksiyon Ã¶rneÄŸi
 #include <iostream>
 
 using namespace std;
@@ -26,7 +26,7 @@ return 1;
 ___________
 
 
-//parametre alan fonksiyon örneği
+//parametre alan fonksiyon Ã¶rneÄŸi
 #include <iostream>
 
 using namespace std;
@@ -56,7 +56,7 @@ return 1;
 ___________
 
 
-//parametre alan ve sonuç gönderen fonksiyon örneği
+//parametre alan ve sonuÃ§ gÃ¶nderen fonksiyon Ã¶rneÄŸi
 #include <iostream>
 
 using namespace std;
@@ -76,11 +76,11 @@ cin>>a;
 cout<<"ikinci sayiyi giriniz:";
 cin>>b;
 
-//fonksiyondan gelen sonucun bir değişkene alınarak kullanılması
+//fonksiyondan gelen sonucun bir deÄŸiÅŸkene alÄ±narak kullanÄ±lmasÄ±
 c=alhesaplavegonder(a,b);
 cout<<c;          
 
-//fonksiyondan gelen sonucun doğrudan ekrana yazdırılması
+//fonksiyondan gelen sonucun doÄŸrudan ekrana yazdÄ±rÄ±lmasÄ±
 cout<<alhesaplavegonder(a,b);
    
 system("pause");
