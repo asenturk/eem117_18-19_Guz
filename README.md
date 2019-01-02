@@ -1,3 +1,13 @@
+**Final Sınavı** (02.01.2019)   
+
+Final sınavınızda 12 soru bulunmaktadır. Süreniz 60 dakika.   
+Sözde kod, akış diyagramı, stringler, döngüler, karşılaştırma, diziler, fonksiyonlar gibi konular sorularda bulunmaktadır.
+Başarılar...   
+
+
+---
+
+
 **Duyuru (30.11.2018):** Arasınav notlarınız açıklanmıştır. Sınav kağıtlarınızı 03.12.2018-12.12.2018 (dahil) tarihleri arasında kontrol edebilirsiniz.  
 Sınav kağıdınızı kontrol etmek için geldiğinizde:
 * Dersin adını,
