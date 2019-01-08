@@ -1,3 +1,12 @@
+
+**Final Notlar** (08.01.2019)   
+Final sınavı notlarınıza aşağıdaki bağlantıdan ulaşabilirsiniz:   
+https://github.com/asenturk/eem117/tree/master/final    
+
+Final sınavlarınızı 11.01.2018 son gün olmak üzere kontrol edebilirsiniz.   
+
+---
+
 **Final Sınavı** (02.01.2019)   
 
 Final sınavınızda 12 soru bulunmaktadır. Süreniz 60 dakika.   
