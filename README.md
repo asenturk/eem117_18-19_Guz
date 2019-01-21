@@ -1,3 +1,8 @@
+**Bütünleme Sınavı** (21.01.2019)  
+Bütüleme sınav içerik ve soru türleri, soruların zorluk seviyleri final sınavı ile benzerdir.   
+Sınav 60 dakikadır. 
+
+---
 
 **Final Notlar** (08.01.2019)   
 Final sınavı notlarınıza aşağıdaki bağlantıdan ulaşabilirsiniz:   
