@@ -1,3 +1,15 @@
+**Bütünleme Notları** (26.01.2019)   
+
+Bütünleme sınavı notlarınıza aşağıdaki bağlantıdan ulaşabilirsiniz:   
+
+https://github.com/asenturk/eem117/tree/master/butunleme
+
+Sınav kağıtlarınızı 29.01.2019 Salı son gün olmak üzere kontrol edebilirsiniz. 
+
+---
+
+https://github.com/asenturk/eem117/tree/master/butunleme
+
 **Bütünleme Sınavı** (21.01.2019)  
 Bütüleme sınav içerik ve soru türleri, soruların zorluk seviyleri final sınavı ile benzerdir.   
 Sınav 60 dakikadır. 
@@ -8,7 +20,7 @@ Sınav 60 dakikadır.
 Final sınavı notlarınıza aşağıdaki bağlantıdan ulaşabilirsiniz:   
 https://github.com/asenturk/eem117/tree/master/final    
 
-Final sınavlarınızı 11.01.2018 son gün olmak üzere kontrol edebilirsiniz.   
+Final sınavlarınızı 11.01.2019 son gün olmak üzere kontrol edebilirsiniz.   
 
 ---
 
